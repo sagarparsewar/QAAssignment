@@ -1,0 +1,10 @@
+Excute first class in java?
+to define a class in java use the keywords words that java alreadely understand 
+public classfollowed by class name then the body of the class is enclosed in a 
+strating {and ending }as shown below
+public class classname 
+ {
+ {
+ the following is an example class in java a class in java can have fields
+ mehod (behaviors) and a main mehod for testing the class
+ it doesnot have to have any of these items
